@@ -22,4 +22,10 @@
 
 - **Modules**: `spinning_words.py`
 - **Tests**: `test_spinning_words.py`
-- **URL*: [challenge url](https://www.codewars.com/kata/stop-gninnips-my-sdrow)
+- **URL**: [challenge url](https://www.codewars.com/kata/stop-gninnips-my-sdrow/)
+
+**Who likes it? (6th kyu)**
+
+- **Modules**: `who_likes_it.py`
+- **Tests**: `test_who_likes_it.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/who-likes-it/)
