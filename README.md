@@ -12,8 +12,14 @@
 - **Tests**: `test_who_ate_the_cookie.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/who-ate-the-cookie/)
 
-**Summy**
+**Summy (7th kyu)**
 
 - **Modules**: `summy.py`
 - **Tests**: `test_summy.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/summy/)
+
+**Stop gninnipS My sdroW! (6th kyu)**
+
+- **Modules**: `spinning_words.py`
+- **Tests**: `test_spinning_words.py`
+- **URL*: [challenge url](https://www.codewars.com/kata/stop-gninnips-my-sdrow)
