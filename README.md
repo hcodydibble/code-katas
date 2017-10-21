@@ -18,6 +18,12 @@
 - **Tests**: `test_summy.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/summy/)
 
+**Sum of two lowest positive integers (7th kyu)**
+
+- **Modules**: `sum_of_lowest_int.py`
+- **Tests**: `test_sum_of_lowest_int.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/sum-of-two-lowest-positive-integers/)
+
 **Stop gninnipS My sdroW! (6th kyu)**
 
 - **Modules**: `spinning_words.py`
