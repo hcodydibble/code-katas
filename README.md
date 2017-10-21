@@ -6,6 +6,12 @@
 - **Tests**: `test_who_ate_the_cookie.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/who-ate-the-cookie/)
 
+**Grasshopper - Terminal game combat function (8th kyu)**
+
+- **Modules**: `grasshopper_combat.py`
+- **Tests**: `test_grasshopper_combat.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/grasshopper-terminal-game-combat-function-1/)
+
 **Love vs Friendship (7th kyu)**
 
 - **Module**: `love_vs_friendship.py`
