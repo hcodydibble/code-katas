@@ -30,6 +30,12 @@
 - **Tests**: `test_sum_of_lowest_int.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/sum-of-two-lowest-positive-integers/)
 
+**Sum of the first nth term of Series**
+
+- **Modules**: `sum_terms.py`
+- **Tests**: `test_sum_terms.py`
+- **URL**: [challenge url](http://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/)
+
 **Stop gninnipS My sdroW! (6th kyu)**
 
 - **Modules**: `spinning_words.py`
