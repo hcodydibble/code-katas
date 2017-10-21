@@ -29,3 +29,9 @@
 - **Modules**: `who_likes_it.py`
 - **Tests**: `test_who_likes_it.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/who-likes-it/)
+
+**Selective Array Reversing (6th kyu)**
+
+ - **Modules**: `selective_array_reversing.py`
+ - **Tests**: `test_selective_array_reversing.py`
+ - **URL**: [challenge url](https://www.codewars.com/kata/selective-array-reversing/)
