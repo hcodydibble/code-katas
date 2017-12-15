@@ -1,17 +1,17 @@
 """Test function for sum_terms module."""
 
-import pytest
+# import pytest
 
-TEST_DATA = [(1, "1.00"), (2, "1.25"), (3, "1.39"), (4, "1.49"), (5, "1.57"),
-             (6, "1.63"), (7, "1.68"), (8, "1.73"), (9, "1.77"), (15, "1.94"),
-             (39, "2.26"), (58, "2.40")]
+# TEST_DATA = [(1, "1.00"), (2, "1.25"), (3, "1.39"), (4, "1.49"), (5, "1.57"),
+#              (6, "1.63"), (7, "1.68"), (8, "1.73"), (9, "1.77"), (15, "1.94"),
+#              (39, "2.26"), (58, "2.40")]
 
 
-@pytest.mark.parametrize("n, result", TEST_DATA)
-def test_series_sum(n, result):
-    """Test for series_sum function."""
-    from sum_terms import series_sum
-    assert series_sum(n) == result
+# @pytest.mark.parametrize("n, result", TEST_DATA)
+# def test_series_sum(n, result):
+#     """Test for series_sum function."""
+#     from sum_terms import series_sum
+#     assert series_sum(n) == result
 
 # Test.describe("Basic tests")
 # Test.assert_equals(series_sum(1), "1.00")
