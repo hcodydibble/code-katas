@@ -53,3 +53,11 @@
  - **Modules**: `selective_array_reversing.py`
  - **Tests**: `test_selective_array_reversing.py`
  - **URL**: [challenge url](https://www.codewars.com/kata/selective-array-reversing/)
+
+**Forbes Top 40 Problems with America**
+
+ - **Modules**: `forbes.py`
+ - **Tests**: `test_forbes.py`
+ - **Description**: 
+
+ For this one I went and changed the 'json' file in to a py file so it could be imported and therefore looped through to be checking things. Then it was just a matter of comparing ages to ages for the victory.
