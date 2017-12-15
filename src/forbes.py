@@ -1,5 +1,5 @@
 """Function to return information about the Forbes top 40."""
-from data.forbes import billionaires
+from forbes_list import billionaires
 
 
 def richie_rich():
